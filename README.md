@@ -1,6 +1,6 @@
 ## Overview
 
-This project was developed as part of a university assignment for a Computational Linear Algebra / Data Analysis course.  
+This project was developed as part of a university assignment for the Computational Linear Algebra course.  
 It applies **Principal Component Analysis (PCA)** and **k-Means clustering** to a real-world survey dataset in order to explore latent behavioral patterns and group similarities.
 
 The workflow covers the complete unsupervised learning pipeline, from preprocessing to interpretation and evaluation.
